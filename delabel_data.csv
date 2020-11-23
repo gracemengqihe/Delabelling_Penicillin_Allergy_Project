@@ -1,0 +1,117 @@
+ID,Age,Gender,Urticaria,Angioedema,Anaphylaxis,Adrenaline_use,ED_presentation,Latency,React_time,Penicillin_allergy_label,Treatment,SK_Results,OC_Results,Allergy_Results
+2,33,Female,0,0,0,0,0,1,,Amoxicillin,Unknown,0,,unknown
+4,49,Female,1,0,1,0,1,0,0,Amoxicillin,Yes,1,,unknown
+5,19,Female,0,0,0,0,0,1,0,Amoxicillin,Yes,0,1,1
+11,41,Male,0,1,0,0,0,1,,Amoxicillin,Yes,0,0,0
+13,44,Male,0,0,0,0,0,1,,Penicillin unspecified,Unknown,0,0,0
+14,57,Female,1,1,1,0,0,0,0,Amoxicillin,Yes,0,,unknown
+18,35,Male,0,0,0,0,1,0,1,Amoxicillin,Yes,0,,unknown
+20,63,Male,0,0,0,0,0,1,1,Penicillin unspecified,Unknown,0,0,0
+21,87,Female,0,0,0,0,0,1,,Penicillin,Unknown,0,0,0
+23,9,Female,1,0,0,0,0,0,0,Amoxicillin,Yes,,0,unknown
+25,28,Female,0,0,0,0,0,1,,Penicillin unspecified,Unknown,0,0,0
+26,0,Male,0,0,0,0,0,1,,Penicillin unspecified,Yes,0,,unknown
+27,7,Female,1,0,0,0,0,1,1,Amoxicillin,Yes,,0,unknown
+28,10,Male,0,0,0,0,0,1,1,Amoxicillin,Yes,,,unknown
+29,58,Male,1,1,0,0,1,0,1,Amoxicillin,Yes,0,,unknown
+33,,Female,1,0,0,0,0,0,1,Amoxicillin,Yes,0,,unknown
+38,14,Female,0,0,0,0,0,1,1,Penicillin unspecified,Unknown,0,0,0
+41,38,Female,0,0,0,0,0,0,1,Penicillin unspecified,Yes,0,1,1
+42,50,Female,0,0,0,0,0,1,,Amoxicillin,Unknown,0,0,0
+43,56,Female,1,0,0,0,0,1,1,Amoxicillin,Unknown,0,1,1
+44,23,Male,0,0,0,0,0,0,0,Amoxicillin,Unknown,0,0,0
+45,40,Male,0,0,0,0,0,1,,Penicillin unspecified,Unknown,0,0,0
+46,21,Female,0,0,0,0,0,1,1,Amoxicillin,Unknown,,,unknown
+48,42,Female,0,0,0,0,0,1,,Penicillin unspecified,Unknown,0,0,0
+49,37,Female,1,0,1,1,1,0,0,Amoxicillin,Yes,1,,unknown
+50,61,Female,1,1,0,0,0,1,0,Amoxicillin,Yes,0,,unknown
+52,20,Female,1,1,0,0,1,1,0,Penicillin unspecified,Yes,0,,unknown
+55,8,Male,0,0,0,0,0,1,1,Penicillin unspecified,Unknown,,0,unknown
+58,8,Female,0,0,0,0,0,1,1,Amoxicillin,Yes,,0,unknown
+59,58,Female,1,0,0,1,0,1,0,Penicillin unspecified,Yes,0,0,0
+61,21,Male,1,1,0,0,1,0,0,Penicillin unspecified,Yes,0,,unknown
+63,48,Male,0,0,0,0,0,1,,Penicillin unspecified,Unknown,0,0,0
+64,44,Female,1,0,0,0,0,1,,Penicillin unspecified,Unknown,0,0,0
+65,55,Female,0,0,0,0,0,1,1,Amoxicillin,Unknown,0,0,0
+66,62,Female,0,0,0,0,0,0,1,Amoxicillin,Unknown,0,0,0
+71,32,Female,0,0,0,0,0,1,,Amoxicillin,No ,0,0,0
+73,32,Female,0,0,0,0,1,0,1,Flucloxacillin,Unknown,1,,unknown
+74,44,Female,0,0,0,0,0,1,0,Amoxicillin,Yes,0,,unknown
+75,5,Female,1,1,0,0,0,0,1,Amoxicillin,Unknown,,0,unknown
+77,68,Female,0,0,0,0,0,1,0,Penicillin unspecified,Unknown,0,0,0
+78,70,Male,1,1,0,0,0,0,0,Amoxicillin,Unknown,1,,unknown
+80,67,Male,0,0,0,0,0,1,0,Amoxicillin,No ,0,1,1
+82,52,Female,0,0,0,0,1,0,1,Amoxicillin,Yes,1,1,1
+84,36,Female,1,1,1,0,1,0,0,Amoxicillin,Yes,0,,unknown
+87,54,Male,0,0,0,0,0,1,,Penicillin unspecified,Unknown,0,0,0
+89,27,Male,0,0,0,0,0,1,,Penicillin unspecified,No ,0,0,0
+90,37,Female,1,0,0,1,0,1,0,Amoxicillin,Yes,0,0,0
+91,37,Female,1,0,1,1,1,0,0,Amoxicillin,Yes,1,,unknown
+92,44,Male,1,1,1,1,1,0,0,Amoxicillin,Yes,1,,unknown
+93,3,Female,1,1,1,1,1,0,0,Penicillin,Yes,,,unknown
+94,60,Female,0,0,0,0,0,1,1,Amoxicillin,Unknown,0,0,0
+96,69,Female,1,1,0,1,1,1,,Amoxicillin,Unknown,0,1,1
+97,82,Female,0,0,0,0,0,1,,Penicillin unspecified,No ,0,,unknown
+101,2,Female,0,0,0,0,0,0,0,Amoxicillin,No ,,,unknown
+102,72,Female,0,0,0,0,0,1,,Penicillin unspecified,Yes,0,0,0
+105,73,Male,1,0,0,0,0,1,,Penicillin unspecified,No ,0,0,0
+107,85,Female,1,0,0,0,1,0,1,Flucloxacillin,Yes,1,,unknown
+111,60,Female,0,0,0,0,0,1,,Penicillin unspecified,No ,0,0,0
+112,53,Female,1,1,0,1,1,1,0,Penicillin unspecified,Yes,0,,unknown
+113,71,Female,1,,1,0,1,0,,Penicillin unspecified,Yes,0,,unknown
+114,55,Female,0,0,0,0,0,1,,Penicillin unspecified,Unknown,0,0,0
+115,85,Male,0,0,0,0,0,1,0,Penicillin unspecified,Unknown,0,0,0
+117,76,Female,1,0,0,0,0,1,0,Amoxicillin,Yes,0,,unknown
+119,52,Male,0,0,0,0,0,1,,Penicillin unspecified,Unknown,0,0,0
+120,38,Female,1,1,1,1,1,0,1,Penicillin,Yes,0,1,1
+125,63,Female,0,0,0,0,0,1,1,Amoxicillin,Unknown,0,0,0
+127,37,Male,0,0,0,0,0,1,,Penicillin unspecified,Unknown,0,0,0
+128,67,Male,0,0,0,0,0,1,,Penicillin unspecified,No ,0,0,0
+129,35,Male,0,0,0,0,0,1,,Amoxicillin,Unknown,0,0,0
+130,8,Female,0,0,0,0,0,1,1,Amoxicillin,Yes,,0,unknown
+131,27,Male,0,0,0,0,0,1,1,Penicillin unspecified,Unknown,0,0,0
+132,75,Female,0,0,0,0,0,1,1,Penicillin unspecified,Unknown,1,,unknown
+134,62,Female,0,0,0,0,0,0,1,Amoxicillin,No ,0,0,0
+140,15,Female,,,,,,1,,Penicillin unspecified,Unknown,0,,unknown
+141,55,Female,0,0,0,0,0,1,,Penicillin unspecified,Unknown,0,,unknown
+142,19,Female,1,1,1,1,1,0,1,Amoxicillin,Yes,0,,unknown
+143,64,Female,0,0,0,0,0,1,1,Penicillin unspecified,Unknown,0,1,1
+145,37,Female,0,1,0,0,0,1,0,Penicillin unspecified,Unknown,0,,unknown
+146,35,Female,1,0,1,1,1,1,,Amoxicillin,Yes,0,1,1
+147,5,Female,1,0,0,0,1,0,0,Amoxicillin,Yes,,0,unknown
+149,29,Female,0,0,0,0,0,0,1,Amoxicillin,Yes,0,0,0
+150,63,Male,1,0,1,1,1,0,0,Amoxicillin,Yes,1,,unknown
+152,,Female,0,0,0,0,0,1,1,Penicillin unspecified,Unknown,0,0,0
+153,61,Male,0,0,0,0,0,1,,Penicillin unspecified,Unknown,0,0,0
+155,49,Male,0,0,0,0,0,1,,Penicillin unspecified,Unknown,0,0,0
+156,60,Female,0,0,0,0,0,1,,Penicillin unspecified,No ,,0,unknown
+157,47,Male,0,0,0,0,0,1,,Penicillin unspecified,No ,0,0,0
+159,53,Female,0,0,0,0,0,1,0,Penicillin unspecified,Unknown,0,0,0
+160,18,Female,1,1,0,0,0,0,1,Amoxicillin,Yes,0,0,0
+162,19,Female,0,0,0,0,0,1,1,Penicillin unspecified,No ,0,1,1
+163,,Female,0,0,1,1,1,1,0,Amoxicillin,Yes,1,,unknown
+164,69,Male,0,0,0,0,0,1,,Penicillin unspecified,Unknown,0,0,0
+167,20,Female,1,0,0,0,1,0,1,Amoxicillin,Yes,1,,unknown
+169,1.5,Male,0,0,0,0,0,0,1,Penicillin,No ,,,unknown
+170,,Female,0,0,0,0,0,1,1,Amoxicillin,Yes,0,0,0
+171,11,Female,0,0,0,0,1,0,0,Flucloxacillin,No ,0,,unknown
+172,3.5,Female,1,0,0,0,1,0,0,Amoxicillin,Yes,,,unknown
+173,35,Female,0,0,0,0,0,0,0,Amoxicillin,Unknown,1,,unknown
+174,69,Female,0,0,0,0,0,1,,Amoxicillin,Unknown,0,0,0
+175,,Female,,,,,,1,,Penicillin unspecified,Unknown,0,0,0
+176,52,Female,1,0,0,0,0,1,,Penicillin unspecified,Unknown,0,0,0
+177,55,Female,0,1,1,1,1,0,0,Amoxicillin,Yes,1,,unknown
+180,29,Male,0,0,0,0,1,0,,Penicillin,Yes,0,0,0
+182,24,Female,0,0,0,0,0,1,,Amoxicillin,No ,0,0,0
+183,71,Female,0,0,0,0,0,1,,Penicillin unspecified,Unknown,0,0,0
+185,43,Male,0,0,1,1,1,0,,Amoxicillin,Yes,1,,unknown
+186,,Male,0,0,0,0,0,1,1,Penicillin unspecified,Unknown,0,0,0
+187,,Female,0,1,0,0,0,1,0,Penicillin unspecified,Unknown,0,1,1
+188,30,Female,0,0,0,0,0,1,,Penicillin unspecified,Unknown,0,0,0
+190,47,Female,1,1,0,1,1,0,0,Amoxicillin,Yes,0,0,0
+191,62,Female,0,0,0,0,1,0,1,Amoxicillin,Yes,1,,unknown
+192,3.5,Male,1,0,0,0,0,0,0,Amoxicillin,Yes,,,unknown
+194,12,Male,0,0,0,0,0,0,1,Amoxicillin,No ,,,unknown
+195,76,Male,0,0,0,0,0,1,1,Penicillin unspecified,Unknown,,0,unknown
+197,57,Female,0,0,0,0,0,1,,Penicillin unspecified,Unknown,0,0,0
+199,64,Female,1,,1,1,1,0,0,Amoxicillin,Yes,1,,unknown
